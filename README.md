@@ -67,3 +67,5 @@ So a paid balance you have not used is not lost by cancelling; it is parked, wit
 ## When to use Begin.sh instead
 
 All four walkthroughs assume you want what Lovable is built for: a hosted web app with a backend and AI features, paid for through one credit balance. If the thing you are actually making is a static site (landing page, docs, portfolio) or an Expo app prototype, and you would rather have the files than a running service, [Try Begin.sh - turn a prompt or a URL into a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=lovable-pricing-examples&utm_content=readme-top&utm_term=tier-r). You describe it or paste a URL to clone, download the zip, and host it yourself; there is no hosting, backend or auth layer, so none of the expiry or Cloud-credit math above applies.
+
+_Last reviewed: 2026-09-22_
